@@ -116,7 +116,7 @@ a:hover {
 }
 
 .column img {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
     border-radius: 5px;
 }
@@ -366,4 +366,4 @@ footer {
         width: 100%;
     }
 }
-/* Add more responsive styles as needed */
+
